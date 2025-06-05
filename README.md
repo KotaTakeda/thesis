@@ -1,5 +1,5 @@
 # Thesis
-Code for [Ph.D Thesis](https://kotatakeda.github.io/math/pdf/thesis.pdf)
+Code for [Ph.D Thesis](https://kotatakeda.github.io/math/pdf/thesis.pdf).
 
 ## Requirements
 ```
